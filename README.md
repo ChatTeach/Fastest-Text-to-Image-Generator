@@ -1,12 +1,15 @@
 # Fastest-Text-to-Image-Generator
 Fastest Text-to-Image Generator using fal ai.
 
-## Getting Started :white_check_mark:  
-To get started with this project, you'll need to clone the repository and have [Node]((https://nodejs.org/en/download) installed on your system.  
 
 
 ## Prerequisites:  
 [Fal AI](https://fal.ai/) API key (for model access)  
+
+
+
+## Getting Started :white_check_mark:  
+To get started with this project, you'll need to clone the repository and have [Node]((https://nodejs.org/en/download) installed on your system.  
 
   
 ### Cloning the Repository :inbox_tray:
